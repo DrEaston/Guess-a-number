@@ -10,3 +10,5 @@ while number!=guess:
   else:
     print("nope, guess again")
 
+def makeFunction():
+  print("test stuff")
